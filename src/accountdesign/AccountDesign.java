@@ -16,8 +16,6 @@ public class AccountDesign {
         
         a1.printAll();
         a2.printAll();
-        
- 
      
     }
 
