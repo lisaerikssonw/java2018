@@ -1,6 +1,6 @@
 package accountdesign;
 
-public class Creation extends Transaction{
+public class Creation extends Transaction {
     
     public Creation() {
         super(0);
