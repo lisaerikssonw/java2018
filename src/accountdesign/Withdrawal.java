@@ -2,7 +2,7 @@ package accountdesign;
 
 public class Withdrawal extends Transaction {
 
-        public Withdrawal(int amount) {
+    public Withdrawal(int amount) {
         super(amount);
     }
     
